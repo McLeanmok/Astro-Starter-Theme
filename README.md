@@ -24,14 +24,14 @@ Once you have the theme on your system, now it's time to install the dependencie
 ```sh
 npm install
 ```
-**You will need to have [NodeJs](nodejs.org) installed on your system in order to run this command**
+**You will need to have [NodeJs](https://nodejs.org/en) installed on your system in order to run this command**
 ## Step #4 Run the theme
 Once you have the theme dependencies installed, it is now time to run it in a local development environment. To do so, run the following command 
 
 ```sh
 npm start 
 ```
-**You will need to have [NodeJs](nodejs.org) & the theme dependencies installed on your system in order to run this command**
+**You will need to have [NodeJs](https://nodejs.org/en) & the theme dependencies installed on your system in order to run this command**
 ---
 This will launch the theme in the browser on localhost:4321 In your browser. It will automatically refresh every time you make a change in your project 
 
